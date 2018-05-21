@@ -1,4 +1,4 @@
-# ia-marc-mine-scrape-py-py3
+# ia-marc-mine-scrape-py3
 
 Python scripts for mining bibliographic data in MARC format from the [Internet Archive](https://archive.org/) and scraping a chosen field and indicator.
 
